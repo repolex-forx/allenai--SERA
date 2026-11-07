@@ -1,0 +1,11 @@
+{
+  "org": "allenai",
+  "repo": "SERA",
+  "versions": [
+    {
+      "commit": "1ca8673bd527b164dc9eb89841c96416ec8ce1a7",
+      "tag": "",
+      "parsed_at": "2026-11-07T21:49:11.627525+00:00"
+    }
+  ]
+}
