@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/allenai/SERA/commit/1ca8673bd527b164dc9eb89841c96416ec8ce1a7",
       "git:hexsha": "1ca8673bd527b164dc9eb89841c96416ec8ce1a7",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-11-07T21:49:11.620401+00:00"
     }
   ]
 }
